@@ -1,0 +1,7 @@
+nama = input("Nama Pelanggan : ")
+alamat = input("Masukan alamat : ")
+umur = input("Masukan umur : ")
+print("=======================")
+print("Nama Pelanggan adalah " +  nama)
+print("Alamat Pelanggan berada di " +  alamat)
+print("Umur pelanggan yaitu " +  umur)
