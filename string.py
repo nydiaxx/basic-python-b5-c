@@ -1,12 +1,13 @@
-a = "hello world"
-print(a)
-print(a[1])
-print(a[0:5])
-print(len(a))
-print(a[1],a[6]) #koma menggunakan 1 atau 2 variable lebih
-print(a[1]+a[2]) #menggabungkan 
+# H e l l o ,   w o r l  d  !
+# 0 1 2 3 4 5 6 7 8 9 10 11 12
 
-b = "hello"
-c = "world"
-d = b + c
-print(d*5)
+a = "Hello, World!"
+print(a)
+print(a[1],a[11])
+print(a[7:12])
+print(len(a))
+
+b = "Hello,"
+c = "World!"
+d = b + " " + c
+print(d)
